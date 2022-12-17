@@ -1,4 +1,4 @@
-//SELECAO ITEMS HTML teste
+//SELECAO ITEMS HTML
 const mensagemAplicacao = document.querySelector(".mensagem-aplicacao");
 const formulario = document.querySelector(".formulario");
 const item = document.getElementById("item");
