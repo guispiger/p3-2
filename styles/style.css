@@ -1,0 +1,14 @@
+main{
+    height: 100vh;
+}
+
+main div:first-child{
+    background-color: darkgray;
+}
+
+.mensagem-aplicacao{
+    height: 1.5em;
+    vertical-align: middle;
+    max-width: 30em;
+}
+
